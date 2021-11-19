@@ -120,7 +120,7 @@ http://iotcampus.net/bmkg/?menu=gempa
 *Pengembangan ini bertujuan untuk memperbaiki model penampilan data agar lebih ramah bagi code dan penguna api itu sendiri*
 *
 
-- **Hudzaifah Al Jihad** - _Initial work_ - [bangjii](https://github.com/bangjii)
+- **Hudzaifah Al Jihad** - _Initial work_ - [bangjii](<a href="https://github.com/bangjii">cek di sini</a>)
 ```
 
 
