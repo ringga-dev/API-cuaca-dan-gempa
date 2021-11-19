@@ -99,6 +99,7 @@ http://iotcampus.net/bmkg/?menu=cuaca&wilayah=jambi
 ```
 
 200 Gempa Yang Terdeteksi
+Dan jika data Kurang dari 200 Maka data yang setelanya akan berisi null
 
 ```
 
@@ -115,7 +116,13 @@ http://iotcampus.net/bmkg/?menu=gempa
 
 - **Ringga Septia Pribadi**
 
-_APPS ini merupakan pengembangan dari repo yang di miliki oleh Hudzaifah Al Jihad selaku pemilik code_
+*APPS ini merupakan pengembangan dari repo yang di miliki oleh Hudzaifah Al Jihad selaku pemilik code*
+*Pengembangan ini bertujuan untuk memperbaiki model penampilan data agar lebih ramah bagi code dan penguna api itu sendiri*
+*
 
 - **Hudzaifah Al Jihad** - _Initial work_ - [bangjii](https://github.com/bangjii)
 ```
+
+
+
+  <img src="https://scontent-sin6-4.xx.fbcdn.net/v/t1.6435-9/201128546_342438534115223_6657857503935702476_n.jpg?_nc_cat=100&cb=c578a115-c1c39920&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGoJIpFiea0UOdynZIP_SgmiouWZ4ejUW6Ki5Znh6NRbrjA6HV0fSu9ire9C0SZwZ4nnDHTomblnMPiN1AF7580&_nc_ohc=iytVO3_Q_R8AX8-WES0&_nc_ht=scontent-sin6-4.xx&oh=c35ca4a29e0289c2ebba9f26302c6921&oe=61BDC988" />
